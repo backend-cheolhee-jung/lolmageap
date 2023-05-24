@@ -93,12 +93,18 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-[If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. ](https://velog.io/@ekxk1234/series/kotlin)
-https://velog.io/@ekxk1234/series/database
-https://velog.io/@ekxk1234/series/redis
-https://velog.io/@ekxk1234/series/monitoring
-https://velog.io/@ekxk1234/series/elastic-search
-https://velog.io/@ekxk1234/series/CICD
+ https://velog.io/@ekxk1234/series/kotlin
+  
+ https://velog.io/@ekxk1234/series/database
+  
+ https://velog.io/@ekxk1234/series/redis
+  
+ https://velog.io/@ekxk1234/series/monitoring
+  
+ https://velog.io/@ekxk1234/series/elastic-search
+  
+ https://velog.io/@ekxk1234/series/CICD
+  
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
@@ -118,7 +124,6 @@ https://velog.io/@ekxk1234/series/CICD
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
   
   
