@@ -16,7 +16,7 @@
 ### <div align="center">I'm cherhy, a full-time backend developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
-- 🔭 I will be working on [Toy Project](https://github.com/rishavanand/github-profilinator) later
+- 🔭 I will be working on [Toy Project](https://github.com/lolmageap) later
   
 
 - 🌱 I am currently learning Functional Programming, Kotlin and Test Driven Development
