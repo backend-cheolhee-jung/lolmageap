@@ -13,7 +13,7 @@
 </div>  
   
 
-### <div align="center">I'm cherhy, a full-time backend developer 👨‍💻 working remotely since 2022 🚀</div>  
+### <div align="center">I'm cherhy, a full-time backend developer 👨‍💻 working since 2022 🚀</div>  
   
 
 - 🔭 I will be working on [Toy Project](https://github.com/lolmageap) later
