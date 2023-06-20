@@ -16,7 +16,7 @@
 ### <div align="center">I'm cherhy, a full-time backend developer 👨‍💻 working since 2022 🚀</div>  
   
 
-- 🔭 I will be working on [Toy Project](https://github.com/lolmageap) later
+- 🔭 I will be working on [Toy Project](https://github.com/LEAFY-7/leafy-back)
   
 
 - 🌱 I am currently learning Functional Programming, Kotlin and Test Driven Development
