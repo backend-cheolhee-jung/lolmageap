@@ -1,5 +1,4 @@
 <div align="center">
-
 ![](./profile-3d-contrib/profile-season.svg)
 </div>  
   
