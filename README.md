@@ -1,4 +1,6 @@
 <div align="center"> 
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=just_jh30)](https://velog.io/@ekxk1234)
   
 ![](./profile-3d-contrib/profile-season.svg)
 
