@@ -1,5 +1,7 @@
-<div align="center">
+<div align="center"> 
+  
 ![](./profile-3d-contrib/profile-season.svg)
+
 </div>  
   
 # <div align="center">Backend Developer / Spring - Java, Kotlin </div>  
