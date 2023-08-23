@@ -9,7 +9,7 @@
 
 
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-season.svg)
 </div>  
   
 # <div align="center">Backend Developer / Spring - Java, Kotlin </div>  
