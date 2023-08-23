@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/lolmageap/lolmageap/main/welcome!.gif" align="center" height="325" />
+![](./profile-3d-contrib/profile-green-animate.svg)
 </div>  
   
 # <div align="center">Backend Developer / Spring - Java, Kotlin </div>  
