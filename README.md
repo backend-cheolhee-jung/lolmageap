@@ -1,13 +1,4 @@
 <div align="center">
-<div>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-f7df1e?style=flat&logo=javascript&logoColor=white"/>
-</div>
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=just_jh30)](https://velog.io/@just_jh30)
-
-
 
 ![](./profile-3d-contrib/profile-season.svg)
 </div>  
