@@ -94,24 +94,6 @@
 </div>  
 <br/>  
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
- https://velog.io/@ekxk1234/series/kotlin
-  
- https://velog.io/@ekxk1234/series/database
-  
- https://velog.io/@ekxk1234/series/redis
-  
- https://velog.io/@ekxk1234/series/monitoring
-  
- https://velog.io/@ekxk1234/series/elastic-search
-  
- https://velog.io/@ekxk1234/series/CICD
-  
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=lolmageap&&style=flat-square" align="center" />
 </div>  
