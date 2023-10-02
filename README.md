@@ -8,7 +8,7 @@
   
 # <div align="center">Backend Developer / Spring - Java, Kotlin </div>  
 
-## <div align="center"> I'm studying 2022~ </div>
+## <div align="center"> I'm studying 2021~ </div>
 
 <br />
 
