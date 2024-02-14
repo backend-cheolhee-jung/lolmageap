@@ -23,7 +23,7 @@
 - 🔭 I will be working on [Toy Project](https://github.com/lolmageap/ITerview)
   
 
-- 🌱 I am currently learning Functional Programming, Kotlin and Test Driven Development
+- 🌱 I am currently learning Functional Programming, MongoDB
   
 
 - ❓ Feel free to ask me anything about the stack and related technologies I use
