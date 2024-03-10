@@ -53,7 +53,7 @@ class 한번_사는_인생은_돌아오지않아요: Exception()
 ---
 
 <div align="center">
-  <img width="352" alt="image" src="https://github.com/lolmageap/lolmageap/assets/96738163/6a771b89-f850-46c6-9d5d-2c53021da29b">
+  <img width="511" alt="image" src="https://github.com/lolmageap/lolmageap/assets/96738163/ece96cee-2433-46ce-a355-63222bc902b6">
 </div>
 
 <br/>
