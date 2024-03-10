@@ -18,21 +18,32 @@
   
 
 ### <div align="center">I'm cherhy, a full-time backend developer 👨‍💻 working since 2022 🚀</div>  
-  
 
-- 🔭 I will be working on [Toy Project](https://github.com/lolmageap/ITerview)
-  
+  ```kotlin
+fun main() {
+    while (working()) {
+        HEALTH -= 1
+    }
+}
 
-- 🌱 I am currently learning Functional Programming, MongoDB
-  
+var HEALTH = 1000
 
-- ❓ Feel free to ask me anything about the stack and related technologies I use
-  
-
-- ✉️ How to reach me [ekxk1234@naver.com](mailto:ekxk1234@naver.com)  
-  
-
+fun working(): Boolean {
+    if (HEALTH > 0) {
+        return true
+    } else {
+        throw OutOfMemoryError("쉬면서 일을 해보는건 어때요?")
+    }
+}
+  ```
+  ---
 <br/>  
+
+<div align="center">
+  <img width="352" alt="image" src="https://github.com/lolmageap/lolmageap/assets/96738163/6a771b89-f850-46c6-9d5d-2c53021da29b">
+</div>
+
+<br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -71,42 +82,3 @@
 </div>
 
 </td></tr></table>  
-
-<br/>  
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/lolmageap" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100005560005856" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-
-
-## Github Stats  
-<div align="center">
-  
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=lolmageap&show_icons=true&count_private=true&hide_border=true" align="center" /> -->
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolmageap&show_icons=true&theme=radical)
-  
-</div>  
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=lolmageap&&style=flat-square" align="center" />
-</div>  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/ekxk1234g" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-<!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
