@@ -28,7 +28,7 @@ fun main() {
     }
 }
 
-var HEALTH = 1000
+var HEALTH = 365
 
 fun working(): Boolean {
     if (HEALTH > 0) {
