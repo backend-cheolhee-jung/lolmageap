@@ -42,10 +42,10 @@ fun working(): Boolean {
 <br/>  
 
 ```kotlin
-@Transactional(noRollbackFor = [IrreversibleActionException::class])
+@Transactional(noRollbackFor = [IrreversibleAction::class])
 fun life() { /** compiled code **/ }
 
-class IrreversibleActionException: RuntimeException()
+class IrreversibleAction: RuntimeException()
 ```
 
 ---
