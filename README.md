@@ -1,6 +1,6 @@
 <div align="center"> 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ekxk1234)](https://velog.io/@ekxk1234)
+<!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ekxk1234)](https://velog.io/@ekxk1234) -->
   
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 
