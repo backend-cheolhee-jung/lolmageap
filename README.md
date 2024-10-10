@@ -6,7 +6,7 @@
 
 </div>  
   
-# <div align="center">Backend Developer / Spring - Java, Kotlin </div>  
+# <div align="center">Kotlin Backend Developer</div>  
 
 ## <div align="center"> I'm studying 2021~ </div>
 
